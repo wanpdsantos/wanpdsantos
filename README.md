@@ -10,7 +10,7 @@
 
 - Languages: Python, Typescript, C, Ladder.
 
-- Frameworks: Django, FastAPI and ExpressJS.
+- Frameworks: Django, FastAPI, and ExpressJS.
 
 - Databases (SQL and NoSQL databases): PostgreSQL, MySQL, and MongoDB.
 
@@ -20,9 +20,9 @@
 
 - Observability: New Relic, and Prometeus.
 
-- Cloud Experience:
-- AWS: VPC, RDS, DynamoDB, EC2, ECS, Lambda, API Gateway, SNS, SQS, Cognito, IAM, S3, CloudWatch, System Manager, Secrets Manager, Redshift, DMS, Glue, Airflow Managed MWAA.
-- Azure: VNET, VM, App Services, Container Instances, Function App, Event hub, ADX.
+- Cloud Providers:
+  - AWS: VPC, RDS, DynamoDB, EC2, ECS, Lambda, API Gateway, SNS, SQS, Cognito, IAM, S3, CloudWatch, System Manager, Secrets Manager, Redshift, DMS, Glue, Airflow Managed MWAA.
+  - Azure: VNET, VM, App Services, Container Instances, Function App, Event hub, ADX.
 
 <!--
 **wanpdsantos/wanpdsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
