@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hi there, 👋
 
 
 🔭 I am currently work as a Software Engineer at Bosch.
-👯 I am looking to collaborate on open source projects
+
+👯 I am looking to collaborate on open source projects.
+
 📫 How to contact me: wanpdsantos@gmail.com
 
 👨‍💻Experiences:
