@@ -1,30 +1,28 @@
 ### Hi there, 👋
 
 
-🔭 I am currently work as a Software Engineer at Bosch.
-
-👯 I am looking to collaborate on open source projects.
-
-📫 How to contact me: wanpdsantos@gmail.com
+- 🔭 I am currently work as a Software Engineer at Bosch.
+- 👯 I am looking to collaborate on open source projects.
+- 📫 How to reach me: wanpdsantos@gmail.com
 
 
 👨‍💻Experiences:
 
-Languages: Python, Typescript, C, Ladder.
+- Languages: Python, Typescript, C, Ladder.
 
-Frameworks: Django, FastAPI and ExpressJS.
+- Frameworks: Django, FastAPI and ExpressJS.
 
-Databases (SQL and NoSQL databases): PostgreSQL, MySQL, and MongoDB.
+- Databases (SQL and NoSQL databases): PostgreSQL, MySQL, and MongoDB.
 
-CI/CD: Git, Github Actions, Jekins, GitLab (CI/CD), and Docker.
+- CI/CD: Git, Github Actions, Jekins, GitLab (CI/CD), and Docker.
 
-Infrastructure as Code: Terraform.
+- Infrastructure as Code: Terraform.
 
-Observability: New Relic, and Prometeus.
+- Observability: New Relic, and Prometeus.
 
-Cloud Experience:
+- Cloud Experience:
 - AWS: VPC, RDS, DynamoDB, EC2, ECS, Lambda, API Gateway, SNS, SQS, Cognito, IAM, S3, CloudWatch, System Manager, Secrets Manager, Redshift, DMS, Glue, Airflow Managed MWAA.
-- Azure: VNET, App Services, Container Instances, Function App, Event hub, ADX.
+- Azure: VNET, VM, App Services, Container Instances, Function App, Event hub, ADX.
 
 <!--
 **wanpdsantos/wanpdsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
