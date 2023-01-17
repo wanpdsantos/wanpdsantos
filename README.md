@@ -21,7 +21,7 @@
 - Observability: New Relic, and Prometeus.
 
 - Cloud Providers:
-  - AWS: VPC, RDS, DynamoDB, EC2, ECS, Lambda, API Gateway, SNS, SQS, Cognito, IAM, S3, CloudWatch, System Manager, Secrets Manager, Redshift, DMS, Glue, Airflow Managed MWAA.
+  - AWS: VPC, RDS, DynamoDB, EC2, ECS, Elastic Beanstalk, Lambda, ECR, API Gateway, SNS, SQS, Cognito, IAM, S3, CloudWatch, System Manager, Secrets Manager, Redshift, DMS, Glue, Airflow Managed MWAA.
   - Azure: VNET, VM, App Services, Container Instances, Function App, Event hub, ADX.
 
 <!--
