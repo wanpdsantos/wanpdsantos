@@ -7,14 +7,21 @@
 
 📫 How to contact me: wanpdsantos@gmail.com
 
+
 👨‍💻Experiences:
 
 Languages: Python, Typescript, C, Ladder.
+
 Frameworks: Django, FastAPI and ExpressJS.
+
 Databases (SQL and NoSQL databases): PostgreSQL, MySQL, and MongoDB.
+
 CI/CD: Git, Github Actions, Jekins, GitLab (CI/CD), and Docker.
+
 Infrastructure as Code: Terraform.
+
 Observability: New Relic, and Prometeus.
+
 Cloud Experience:
 - AWS: VPC, RDS, DynamoDB, EC2, ECS, Lambda, API Gateway, SNS, SQS, Cognito, IAM, S3, CloudWatch, System Manager, Secrets Manager, Redshift, DMS, Glue, Airflow Managed MWAA.
 - Azure: VNET, App Services, Container Instances, Function App, Event hub, ADX.
