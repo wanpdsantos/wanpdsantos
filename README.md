@@ -10,7 +10,7 @@
 
 - Languages: Python, Typescript, C, Ladder.
 
-- Frameworks: Django, FastAPI, and ExpressJS.
+- Frameworks: Django, FastAPI, ExpressJS, React, NextJS.
 
 - Databases (SQL and NoSQL databases): PostgreSQL, MySQL, and MongoDB.
 
@@ -18,11 +18,11 @@
 
 - Infrastructure as Code: Terraform.
 
-- Observability: New Relic, and Prometeus.
+- Observability: New Relic, Telegraf, and Prometeus.
 
 - Cloud Providers:
   - AWS: VPC, RDS, DynamoDB, EC2, ECS, Elastic Beanstalk, Lambda, ECR, API Gateway, SNS, SQS, Cognito, IAM, S3, CloudWatch, System Manager, Secrets Manager, Redshift, DMS, Glue, Airflow Managed MWAA.
-  - Azure: VNET, VM, App Services, Container Instances, Function App, Event hub, ADX.
+  - Azure: VNET, VM, App Services, Container Instances, Function App, Event hub, ADX, IoT Hub.
 
 <!--
 **wanpdsantos/wanpdsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
