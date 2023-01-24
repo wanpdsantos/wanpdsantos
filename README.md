@@ -1,8 +1,9 @@
 ### Hi there, 👋
 
 
-- 🔭 I have been working as engineer for 6 years in distinct projects and currently working at Boshc as Software Engineer.
+- 🔭 I have been working as engineer for 6 years in distinct projects and currently working at Bosch as Software Engineer.
 - 👯 I am looking to collaborate on open source projects.
+- 🌱 I’m currently learning Observability for distributed systems and Rust.
 - 📫 How to reach me: wanpdsantos@gmail.com
 
 
