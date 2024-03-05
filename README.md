@@ -1,8 +1,7 @@
 ### Hi there, 👋
 
 
-- 🔭 I have been working as engineer for 6 years in distinct projects and currently working as Cloud and Data Engineer.
-- 👯 I am looking to collaborate on open source projects.
+- 🔭 I have been working as software engineer for 8 years in distinct projects and currently working as Cloud and Data Engineer.
 - 🌱 I’m currently learning Golang and studying for AWS Solution Architect.
 - 📫 How to reach me: wanpdsantos@gmail.com
 
