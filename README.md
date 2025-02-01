@@ -1,7 +1,7 @@
 ### Hi there, 👋
 
 
-- 🔭 I have been working as software engineer for 8 years in distinct projects and currently working as DevOps AWS Cloud Engineer.
+- 🔭 I have been working as a software engineer for 8 years in distinct projects and currently working as a Platform | DevOps Engineer focused on AWS Cloud.
 
 📑 Certifications:
 
@@ -11,10 +11,11 @@
 
 👨‍💻Experiences:
 
+- Container Orchestration: Kubernetes (AWS EKS Focused).
 - Languages: Python, Typescript, C, Ladder, Go, Bash.
 - Frameworks: Django, FastAPI, ExpressJS, React, NextJS, Gin.
 - Databases (SQL and NoSQL databases): PostgreSQL, MySQL, and MongoDB, OpenSearch, Redshift.
-- CI/CD: Git, Github Actions, Jekins, GitLab (CI/CD), and Docker.
+- CI/CD: GitHub Actions, GitLab (CI/CD), ArgoCD.
 - Infrastructure as Code: Terraform.
 - Observability: Datadog, New Relic, Telegraf, and Prometeus.
 
